@@ -18,7 +18,7 @@
 
 <h2 align="center"> 👨‍💻 WHO AM I?</h2>
 <p align="center">
-  <samp>A Computer Science student specializing in cybersecurity and cloud security, actively building skills in AWS and cloud technologies. Passionate about safeguarding digital infrastructure and exploring the intersection of cybersecurity and finance.
+  <samp>A Computer Science student specializing in cybersecurity, actively building skills in AWS and cloud technologies. Passionate about safeguarding digital infrastructure and exploring the intersection of cybersecurity and finance.
   </samp>
   <br>
 </p>
@@ -45,7 +45,6 @@
   <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img align="center" src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img align="center" src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;&nbsp;
-  <img align="center" src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img align="center" src="https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <br>
   <br>
@@ -53,20 +52,7 @@
 
 ---
 
-<h2 align="center"> 💡 PROJECT HIGHLIGHTS</h2>
-<p align="center">
-  <samp>
-    <ul>
-      <li>🛠 <b>Real-Time Threat Detector</b>: Built an automated Python-based tool to detect and mitigate common network threats.</li>
-      <li>📊 <b>Cloud Cost Optimizer</b>: Developed a tool to analyze AWS billing data and suggest optimizations for cost reduction.</li>
-      <li>🔍 <b>Vulnerability Scanner</b>: Designed a lightweight web application to scan and report vulnerabilities in small-scale web apps.</li>
-    </ul>
-  </samp>
-</p>
-
----
-
-<h2 align="center"> 📫 LET'S CONNECT</h2>
+<h2 align="center"> 📫 LET'S CONNECT ON:</h2>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/pradipsapkota01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
