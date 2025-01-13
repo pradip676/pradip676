@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="./intro1.png" />
+<img align="center" width="100%" src="./intro.png" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=pradip676&theme=radical&show_icons=true" />
 <img align="left" width="47%" height="280px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradip676&theme=radical" />
