@@ -18,7 +18,7 @@
 
 <h2 align="center"> 👨‍💻 WHO AM I?</h2>
 <p align="center">
-  <samp>A Computer Science student specializing in cybersecurity, actively building skills in AWS and cloud technologies. Passionate about safeguarding digital infrastructure and exploring the intersection of cybersecurity and finance.
+  <samp>A cybersecurity student actively building skills in AWS and cloud technologies. Passionate about safeguarding digital infrastructure and exploring the intersection of cybersecurity and finance.
   </samp>
   <br>
 </p>
@@ -56,3 +56,4 @@
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/pradipsapkota01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
+
