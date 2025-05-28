@@ -16,7 +16,7 @@
 <br>
 <br>
 
-## Main Projects
+## Major Projects
 A curated list of my top GitHub projects combining cybersecurity, cloud, and automation:
 
 ---
